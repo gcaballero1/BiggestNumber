@@ -13,7 +13,7 @@ cout<<"Please enter a whole number:\n";
 cin>>var1;
 cout<<"Please enter another whole number:\n";
 cin>>var2;
-cout<<"Of those two numbers, the biggest is:\n";
+cout<<"Of those two numbers, the biggest is: ";
 
 if(var1>var2) {
   cout<< var1 << endl;
